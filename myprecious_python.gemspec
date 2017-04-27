@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'myprecious_python'
-  s.version     = '0.0.1'
-  s.date        = '2017-04-24'
+  s.version     = '0.0.2'
+  s.date        = '2017-04-26'
   s.summary     = "Your precious python dependencies!"
   s.description = "A simple, markdown generated with information about your python dependencies"
   s.authors     = ["Balki Kodarapu"]
