@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'myprecious_python'
+puts MyPreciousPython.update
