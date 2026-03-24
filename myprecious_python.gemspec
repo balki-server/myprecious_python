@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.files       = ["lib/myprecious_python.rb"]
   s.executables << 'myprecious_python'
   s.add_runtime_dependency 'byebug', '~> 9.0', '>= 9.0.6'
-  s.add_runtime_dependency 'httparty', '~> 0.16', '>= 0.16.4'
+  s.add_runtime_dependency 'httparty', '~> 0.24', '>= 0.24.0'
   s.add_runtime_dependency 'json', '~> 2.3.0', '>= 2.3'
   s.add_runtime_dependency 'rest-client', '~> 2.0.2', '>= 2.0'  
   
